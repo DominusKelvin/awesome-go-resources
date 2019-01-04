@@ -31,13 +31,14 @@
 * [Here Are Some Amazing Advantages Of Go That You Don’t Hear Much About](https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a)
 * [Tips That You Should Know Before Start Writing on GO!](https://medium.com/@alexmaisiura/tips-that-you-should-know-before-start-writing-on-go-d30e681e2dd7)
 * [Structuring Applications In Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
+* [Go Walkthrough](https://medium.com/go-walkthrough)
 
 ## Boilerplates
 * [Go Web App - Todd McLeod](https://github.com/GoesToEleven/go_web_app)
 
 ## Videos
 * [Build Web Apps With Go Language(golang) - Youtube](https://www.youtube.com/watch?v=Vlie-srOU8c)
-* [Go Walkthrough](https://medium.com/go-walkthrough)
+
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thanks a lot. You rock!
