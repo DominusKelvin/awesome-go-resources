@@ -27,6 +27,7 @@
 * [How To Set Up Go For Windows — A Quick And Easy Guide](https://medium.freecodecamp.org/setting-up-go-programming-language-on-windows-f02c8c14e2f)
 * [Why Go?](https://hackernoon.com/why-go-ef8850dc5f3c)
 * [Why You Should Learn Go](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
+* [Let's Go There - Your First Go Program](https://codeburst.io/lets-go-there-your-first-go-program-46f5d2e735bd)
 * [Farewell NodeJS](https://medium.com/@tjholowaychuk/farewell-node-js-4ba9e7f3e52b)
 * [Here Are Some Amazing Advantages Of Go That You Don’t Hear Much About](https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a)
 * [Tips That You Should Know Before Start Writing on GO!](https://medium.com/@alexmaisiura/tips-that-you-should-know-before-start-writing-on-go-d30e681e2dd7)
