@@ -16,7 +16,7 @@
 ## Essentials
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 * [Blog](https://blog.golang.org/)
-* [Learn](https://learnnextjs.com/)
+
 
 ## Articles
 * [How To Set Up Go For Windows — A Quick And Easy Guide](https://medium.freecodecamp.org/setting-up-go-programming-language-on-windows-f02c8c14e2f)
