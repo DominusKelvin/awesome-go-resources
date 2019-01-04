@@ -19,7 +19,7 @@
 * [Learn](https://learnnextjs.com/)
 
 ## Articles
-* [How to set up Go for Windows — a quick and easy guide](https://medium.freecodecamp.org/setting-up-go-programming-language-on-windows-f02c8c14e2f)
+* [How To Set Up Go For Windows — A Quick And Easy Guide](https://medium.freecodecamp.org/setting-up-go-programming-language-on-windows-f02c8c14e2f)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thanks a lot. You rock!
