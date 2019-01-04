@@ -34,6 +34,7 @@
 
 ## Videos
 * [Build Web Apps With Go Language(golang) - Youtube](https://www.youtube.com/watch?v=Vlie-srOU8c)
+* [Go Walkthrough](https://medium.com/go-walkthrough)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thanks a lot. You rock!
