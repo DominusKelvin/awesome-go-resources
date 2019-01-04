@@ -1,4 +1,9 @@
 # Awesome Go
+> Curated list of resources: books, videos, articles about using Next.js.
+
+[Go](https://golang.org/) is an open source programming language that makes it easy to build simple, reliable, and efficient software..
+
+*List inspired by Prosper Otemuyiwa's [unicodeveloper](https://github.com/unicodeveloper/) list of resources on NextJS.*
 
 ## Contents
 - [Community](#community)
