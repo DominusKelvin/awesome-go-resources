@@ -25,6 +25,7 @@
 
 ## Articles
 * [How To Set Up Go For Windows — A Quick And Easy Guide](https://medium.freecodecamp.org/setting-up-go-programming-language-on-windows-f02c8c14e2f)
+* [Why Go?](https://hackernoon.com/why-go-ef8850dc5f3c)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thanks a lot. You rock!
