@@ -34,6 +34,7 @@
 * [Tips That You Should Know Before Start Writing on GO!](https://medium.com/@alexmaisiura/tips-that-you-should-know-before-start-writing-on-go-d30e681e2dd7)
 * [Structuring Applications In Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 * [Go Walkthrough](https://medium.com/go-walkthrough)
+* [Basics Of Golang For Beginners](https://hackernoon.com/basics-of-golang-for-beginners-6bd9b40d79ae)
 
 ## Boilerplates
 * [Go Web App - Todd McLeod](https://github.com/GoesToEleven/go_web_app)
