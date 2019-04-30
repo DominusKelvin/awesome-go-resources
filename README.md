@@ -35,6 +35,7 @@
 * [Structuring Applications In Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 * [Go Walkthrough](https://medium.com/go-walkthrough)
 * [Basics Of Golang For Beginners](https://hackernoon.com/basics-of-golang-for-beginners-6bd9b40d79ae)
+* [Resources For New Go Programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 
 ## Boilerplates
 * [Go Web App - Todd McLeod](https://github.com/GoesToEleven/go_web_app)
